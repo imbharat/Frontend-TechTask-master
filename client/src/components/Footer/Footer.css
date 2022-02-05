@@ -1,0 +1,11 @@
+.footer {
+  /* grid-area: footer; */
+  font-weight: 600;
+  border-top: 1.5px solid #e2e4e4;
+  position: sticky;
+  bottom: 0;
+  background-color: #ffffff;
+  text-align: center;
+  min-height: 2rem;
+  line-height: 2;
+}

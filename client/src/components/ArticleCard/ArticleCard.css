@@ -1,0 +1,36 @@
+.article {
+  /* border: 1px solid lavenderblush; */
+  padding: 10px;
+}
+
+.article:hover {
+  box-shadow: 8px 8px 8px #9f9f9f;
+  border-radius: 0 0 10px 0;
+}
+
+.article > * {
+  display: inline-block;
+  text-align: center;
+  padding: 4px 0;
+  margin: 4px 0;
+  width: 100%;
+}
+
+.article > input[type="button"] {
+  padding: 0.2em;
+  background-color: #e2e2e2;
+  border: 1px solid lightgray;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.article img.addToCart {
+  width: 25x;
+  height: 25px;
+  float: right;
+}
+
+.article > .articleName {
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
