@@ -2,7 +2,7 @@ import React from 'react';
 import { Category } from '../../shared/types'
 import './Sidebar.css';
 
-function Sidebar({ categories }: { categories: Category[] }) {
+function Sidebar({ categories } : { categories: Category[] }) {
   return (
     <div className={'sidebar'}>
     <h3>Kategorien</h3>

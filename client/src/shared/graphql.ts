@@ -7,7 +7,7 @@ export const Queries = {
           name
           urlPath
         }
-        categoryArticles(first: 50) {
+        categoryArticles(first: 30, offset: $offset) {
           articles {
             name
             variantName

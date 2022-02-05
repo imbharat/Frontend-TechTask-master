@@ -1,6 +1,5 @@
 import React from 'react';
-import { Queries } from '../../shared/graphql';
-import { HttpRequest } from '../../shared/xhr-interceptor';
+import { getProducts } from '../../shared/helpers';
 import { Category } from '../../shared/types';
 
 interface Props {
@@ -17,16 +16,9 @@ class RenderData extends React.Component<Props> {
   };
 
   componentDidMount() {
-    let xhr = HttpRequest('POST', '/graphql');
-    xhr.send(JSON.stringify({
-      query: Queries.getProducts,
-    }));
-    xhr.onload = () => {
-      if (xhr.status === 200) {
-        const response = JSON.parse(xhr.response);
-        this.setState({ categories: response.data.categories });
-      }
-    }
+    getProducts().then((categories) => {
+      this.setState({ categories });
+    });
   }
 
   render() {
