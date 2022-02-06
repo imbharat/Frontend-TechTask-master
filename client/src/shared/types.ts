@@ -31,3 +31,9 @@ export type Image = {
 export type CategoryArticle = {
   articles: Article[]
 }
+
+export type Suggestion = {
+  name: string
+  count: number
+  image: string
+}

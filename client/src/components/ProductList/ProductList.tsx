@@ -1,5 +1,5 @@
 import React from 'react';
-import { getProducts } from '../../shared/helpers';
+import { getProducts } from '../../shared/api_requests';
 import { Category } from '../../shared/types';
 import ArticleCard from '../ArticleCard/ArticleCard';
 import './ProductList.css';
@@ -70,7 +70,7 @@ class ArticleList extends React.Component<Props> {
             </div>
           </div>
         ) : (
-          'Loading...'
+          <div style={{height: '100vh'}}>Loading...</div>
         )}
       </div>
     );

@@ -28,5 +28,12 @@ export const Queries = {
           }
         }
       }
+    }`,
+    searchSuggestions: `{
+      autoSuggestion(prefix: "$prefix", locale: de_DE) {
+        name
+        count: results
+        image(format: WEBP, maxWidth: 32, maxHeight: 32)
+      }
     }`
 }
