@@ -21,7 +21,7 @@ function Search() {
     }
     
     useEffect(() => {
-        if(!firstRender && keywords.length > 1) {
+        if(!firstRender && queryString.length > 1) {
             searchProducts(queryString).then((suggestions) => {
                 setSuggestions(suggestions as Suggestion[]);
             });
@@ -30,7 +30,7 @@ function Search() {
             setFirstRender(false);
         }
         return () => {}
-    }, [queryString])
+    }, [queryString, firstRender])
     
     return (
         <div className='search'>
@@ -45,7 +45,7 @@ function Search() {
                         suggestions.map((suggestion, idx) =>  {
                             return (
                                 <div className='suggestion' key={suggestion.name + idx}>
-                                    <div><img src={suggestion.image} /></div>
+                                    <div><img src={suggestion.image} alt=''/></div>
                                     <div>{suggestion.name}</div>
                                     <div style={{
                                         fontSize: '0.8rem',

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleCard Article renders 1`] = `
+<div
+  className="article"
+>
+  <img
+    alt="Failed To Load Item"
+    src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/bett-eos-buche-massiv-geoelt-257225.webp"
+  />
+  <div
+    className="articleName"
+    data-testid="article-name"
+  >
+    Massivholzbett EosWOOD (inkl Bettkästen)
+  </div>
+  <div>
+    529,99 €
+  </div>
+  <input
+    type="button"
+    value="Add to cart"
+  />
+</div>
+`;

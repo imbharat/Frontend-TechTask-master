@@ -16,7 +16,7 @@ type State = {
 
 class ArticleList extends React.Component<Props> {
   state: State = {
-    categories: [],
+    categories: this.props.categories,
     offset: 30,
     loadMore: true
   }
@@ -65,12 +65,16 @@ class ArticleList extends React.Component<Props> {
             <div className='articles'>{articles}</div>
             <div className='loadMore'>
               {
-                this.state.loadMore && <input type="button" onClick={this.loadMore} value='+ Mehr laden' />
+                this.state.loadMore && <input 
+                  data-testid = 'load-more'
+                  type="button" onClick={this.loadMore} 
+                  value='+ Mehr laden' 
+                />
               }
             </div>
           </div>
         ) : (
-          <div style={{height: '100vh'}}>Loading...</div>
+          <div data-testid='loading' style={{height: '100vh'}}>Loading...</div>
         )}
       </div>
     );

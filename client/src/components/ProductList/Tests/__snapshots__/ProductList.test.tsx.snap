@@ -1,0 +1,1082 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList renders the ProductList 1`] = `
+<div
+  className="content"
+>
+  <div>
+    <h1>
+      Massivholz Möbel
+      <small>
+         (
+        811
+        )
+      </small>
+    </h1>
+    <div
+      className="articles"
+    >
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/bett-eos-buche-massiv-geoelt-257225.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett EosWOOD (inkl Bettkästen)
+        </div>
+        <div>
+          529,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000117189-200612-15381300001-IMAGE-P000000001000117189.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          TV-Lowboard Grasby II
+        </div>
+        <div>
+          679,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-areswood-in-verschiedenen-groessen-erhaeltlich-140-x-200cm-kernbuche-1071678.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett AresWOOD
+        </div>
+        <div>
+          209,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000008531-200214-14401000003-IMAGE-P000000001000008531.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Beistelltisch-Set Nilla I (2-teilig)
+        </div>
+        <div>
+          154,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/c/schreibtisch-branno-eiche-teilmassiv-weiss-eiche-4825468.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Schreibtisch Branno
+        </div>
+        <div>
+          299,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/p/spiegelschrank-goa-akazie-massiv-mehrfarbig-4847144.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Spiegelschrank Goa
+        </div>
+        <div>
+          279,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-areswood-140-x-200cm-ohne-kopfteil-buche-4720316.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett AresWOOD
+        </div>
+        <div>
+          174,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/jpg/-/1/-1000104127-10-IMAGE-P000000001000104127.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Esszimmerstuhl Vision (2er-Set)
+        </div>
+        <div>
+          189,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/k/o/kommode-trangle-sheesham-massiv-3992412.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Kommode Trangle
+        </div>
+        <div>
+          549,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000104316-211122-08320500470-IMAGE-P000000001000104316.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Esstisch Bastide (mit Ansteckplatten)
+        </div>
+        <div>
+          179,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/n/a/nachtkommode-ares-buche-massiv-geoelt-1384448.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Nachtkommode AresWood
+        </div>
+        <div>
+          94,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/h/o/hochschrank-goa-white-ii-akazie-mango-teilmassiv-mehrfarbig-4847056.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Hochschrank Goa White II
+        </div>
+        <div>
+          399,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-layawood-140-x-200cm-eiche-4809944.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett LayaWOOD
+        </div>
+        <div>
+          419,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/n/a/nachtkommode-maldon-akazie-massiv-4742404.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Nachtkommode Maldon
+        </div>
+        <div>
+          81,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050875-191112-10031500049-IMAGE-P000000001000050875.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Couchtisch Woodson II
+        </div>
+        <div>
+          329,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000008518-180918-12451701-IMAGE-P000000001000008518.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Beistelltisch Past Past I (3-teilig)
+        </div>
+        <div>
+          159,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000110720-180622-16012501-IMAGE-P000000001000110720.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Stapelbett Takali
+        </div>
+        <div>
+          219,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000138429-210323-15111500151-IMAGE-P000000001000138429.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Barstuhl Aledas II
+        </div>
+        <div>
+          179,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/a/barstuhl-aledas-ii-2er-set-webstoff-gummibaum-massiv-granit-4851280.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Barstuhl Aledas II
+        </div>
+        <div>
+          149,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/beistelltisch-anamur-i-wildeiche-massiv-90-4726376.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Beistelltisch Anamur I
+        </div>
+        <div>
+          99,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050876-191112-10031600056-IMAGE-P000000001000050876.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Highboard Woodson
+        </div>
+        <div>
+          569,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/bett-fawn-i-eiche-massiv-180-x-200cm-eiche-3868976.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Bett Fleek I
+        </div>
+        <div>
+          1.240,00 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/bett-fawn-ii-eiche-massiv-180-x-200cm-eiche-hell-3869972.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Bett Fleek II
+        </div>
+        <div>
+          1.260,00 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/v/i/vitrinenschrank-ohio-sheesham-massiv-4203116.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Vitrinenschrank Ohio
+        </div>
+        <div>
+          829,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/v/i/vitrinenschrank-grasby-altholz-pinie-metall-pinie-dunkel-schwarz-4884852.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Vitrinenschrank Grasby
+        </div>
+        <div>
+          819,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000117575-191031-15283600022-IMAGE-P000000001000117575.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Drehtürenschrank Goa
+        </div>
+        <div>
+          999,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/e/s/esstisch-lindholm-ii-eiche-teimassiv-100-x-100-cm-4049664.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Esstisch Lindholm II
+        </div>
+        <div>
+          319,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050867-201006-17424700001-IMAGE-P000000001000050867.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          TV-Lowboard Woodson III
+        </div>
+        <div>
+          629,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050869-180717-08055047-IMAGE-P000000001000050869.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Sideboard Woodson
+        </div>
+        <div>
+          629,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/c/schreibtisch-cullman-sheesham-massiv-4825800.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Schreibtisch Cullman
+        </div>
+        <div>
+          279,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050887-191112-10045400036-IMAGE-P000000001000050887.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Sideboard Woodson
+        </div>
+        <div>
+          699,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/i/sideboard-grasby-altholz-pinie-metall-pinie-dunkel-schwarz-4885004.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Sideboard Grasby
+        </div>
+        <div>
+          669,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/h/o/hochschrank-manchester-akazie-teilmassiv-metall-4874720.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Hochschrank Manchester
+        </div>
+        <div>
+          479,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/h/i/himbalt-tomano-style-06-05-2016-4067352.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbettgestell TessaWood
+        </div>
+        <div>
+          449,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/e/s/esstisch-moorawood-massiv-eiche-4347232.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Esstisch MooraWOOD
+        </div>
+        <div>
+          299,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-layawood-kernbuche-massiv-geoelt-180-x-200cm-1054510.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett LayaWOOD
+        </div>
+        <div>
+          449,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/e/bett-john-buche-massiv-geoelt-286327.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett JohnWOOD
+        </div>
+        <div>
+          219,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/t/v/tv-lowboard-woodson-ii-akazie-massiv-eisen-akazie-4573252.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          TV-Lowboard Woodson I
+        </div>
+        <div>
+          349,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/i/sideboard-wharton-i-mango-teilmassiv-stahl-5212008.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Sideboard Wharton I
+        </div>
+        <div>
+          569,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/c/o/couchtische-set-finsby-4036888.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Couchtisch Finsby (2er-Set)
+        </div>
+        <div>
+          189,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-ares-eiche-massiv-geoelt-1409391.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett AresWOOD
+        </div>
+        <div>
+          319,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-areswood-90-x-200cm-eiche-weissoel-4329160.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett AresWOOD
+        </div>
+        <div>
+          274,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-artemis-eiche-massiv-geoelt-276733.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett JillWOOD
+        </div>
+        <div>
+          319,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/h/i/himbalt-tomano-style-06-05-2016-4067304.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbettgestell ParosWood
+        </div>
+        <div>
+          449,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/k/o/kommode-hunter-ii-metall-mango-massiv-mango-blaugrau-4845736.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Kommode Hunter II
+        </div>
+        <div>
+          399,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000050918-181128-11251500020-IMAGE-P000000001000050918.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Hochschrank Ashby
+        </div>
+        <div>
+          549,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-apollon-buche-massiv-geoelt-1416302.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett LeeWOOD
+        </div>
+        <div>
+          379,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/c/o/couchtisch-woodson-ii-akazie-massiv-eisen-akazie-braun-4580716.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Couchtisch Woodson II
+        </div>
+        <div>
+          319,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/k/o/komfortbett-amywood-kernbuche-massiv-90-x-200cm-4386028.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Massivholzbett AmyWOOD
+        </div>
+        <div>
+          259,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+      <div
+        className="article"
+      >
+        <img
+          alt="Failed To Load Item"
+          src="https://cdn1.home24.net/images/media/catalog/product/200x200/png/h/i/highboard-ohio-sheesham-massiv-4203140.webp"
+        />
+        <div
+          className="articleName"
+          data-testid="article-name"
+        >
+          Highboard Ohio
+        </div>
+        <div>
+          729,99 €
+        </div>
+        <input
+          type="button"
+          value="Add to cart"
+        />
+      </div>
+    </div>
+    <div
+      className="loadMore"
+    >
+      <input
+        data-testid="load-more"
+        onClick={[Function]}
+        type="button"
+        value="+ Mehr laden"
+      />
+    </div>
+  </div>
+</div>
+`;

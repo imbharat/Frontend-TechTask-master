@@ -8,7 +8,7 @@ function ArticleCard({ article }: { article: Article }) {
   return (
     <div className={'article'}>
       <img src={article.images[0].path} alt='Failed To Load Item'/>
-      <div className="articleName">{article.name}</div>
+      <div data-testid='article-name' className="articleName">{article.name}</div>
       <div>
         {formatter.format(article.prices.regular.value / 100)}
         {/* <img className='addToCart' src={AddToCart}/> */}
