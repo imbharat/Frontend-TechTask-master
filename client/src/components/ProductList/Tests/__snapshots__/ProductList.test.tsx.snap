@@ -33,6 +33,7 @@ exports[`ProductList renders the ProductList 1`] = `
           529,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -54,6 +55,7 @@ exports[`ProductList renders the ProductList 1`] = `
           679,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -75,6 +77,7 @@ exports[`ProductList renders the ProductList 1`] = `
           209,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -96,6 +99,7 @@ exports[`ProductList renders the ProductList 1`] = `
           154,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -117,6 +121,7 @@ exports[`ProductList renders the ProductList 1`] = `
           299,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -138,6 +143,7 @@ exports[`ProductList renders the ProductList 1`] = `
           279,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -159,6 +165,7 @@ exports[`ProductList renders the ProductList 1`] = `
           174,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -180,6 +187,7 @@ exports[`ProductList renders the ProductList 1`] = `
           189,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -201,6 +209,7 @@ exports[`ProductList renders the ProductList 1`] = `
           549,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -222,6 +231,7 @@ exports[`ProductList renders the ProductList 1`] = `
           179,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -243,6 +253,7 @@ exports[`ProductList renders the ProductList 1`] = `
           94,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -264,6 +275,7 @@ exports[`ProductList renders the ProductList 1`] = `
           399,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -285,6 +297,7 @@ exports[`ProductList renders the ProductList 1`] = `
           419,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -306,6 +319,7 @@ exports[`ProductList renders the ProductList 1`] = `
           81,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -327,6 +341,7 @@ exports[`ProductList renders the ProductList 1`] = `
           329,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -348,6 +363,7 @@ exports[`ProductList renders the ProductList 1`] = `
           159,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -369,6 +385,7 @@ exports[`ProductList renders the ProductList 1`] = `
           219,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -390,6 +407,7 @@ exports[`ProductList renders the ProductList 1`] = `
           179,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -411,6 +429,7 @@ exports[`ProductList renders the ProductList 1`] = `
           149,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -432,6 +451,7 @@ exports[`ProductList renders the ProductList 1`] = `
           99,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -453,6 +473,7 @@ exports[`ProductList renders the ProductList 1`] = `
           569,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -474,6 +495,7 @@ exports[`ProductList renders the ProductList 1`] = `
           1.240,00 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -495,6 +517,7 @@ exports[`ProductList renders the ProductList 1`] = `
           1.260,00 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -516,6 +539,7 @@ exports[`ProductList renders the ProductList 1`] = `
           829,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -537,6 +561,7 @@ exports[`ProductList renders the ProductList 1`] = `
           819,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -558,6 +583,7 @@ exports[`ProductList renders the ProductList 1`] = `
           999,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -579,6 +605,7 @@ exports[`ProductList renders the ProductList 1`] = `
           319,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -600,6 +627,7 @@ exports[`ProductList renders the ProductList 1`] = `
           629,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -621,6 +649,7 @@ exports[`ProductList renders the ProductList 1`] = `
           629,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -642,6 +671,7 @@ exports[`ProductList renders the ProductList 1`] = `
           279,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -663,6 +693,7 @@ exports[`ProductList renders the ProductList 1`] = `
           699,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -684,6 +715,7 @@ exports[`ProductList renders the ProductList 1`] = `
           669,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -705,6 +737,7 @@ exports[`ProductList renders the ProductList 1`] = `
           479,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -726,6 +759,7 @@ exports[`ProductList renders the ProductList 1`] = `
           449,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -747,6 +781,7 @@ exports[`ProductList renders the ProductList 1`] = `
           299,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -768,6 +803,7 @@ exports[`ProductList renders the ProductList 1`] = `
           449,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -789,6 +825,7 @@ exports[`ProductList renders the ProductList 1`] = `
           219,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -810,6 +847,7 @@ exports[`ProductList renders the ProductList 1`] = `
           349,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -831,6 +869,7 @@ exports[`ProductList renders the ProductList 1`] = `
           569,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -852,6 +891,7 @@ exports[`ProductList renders the ProductList 1`] = `
           189,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -873,6 +913,7 @@ exports[`ProductList renders the ProductList 1`] = `
           319,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -894,6 +935,7 @@ exports[`ProductList renders the ProductList 1`] = `
           274,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -915,6 +957,7 @@ exports[`ProductList renders the ProductList 1`] = `
           319,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -936,6 +979,7 @@ exports[`ProductList renders the ProductList 1`] = `
           449,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -957,6 +1001,7 @@ exports[`ProductList renders the ProductList 1`] = `
           399,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -978,6 +1023,7 @@ exports[`ProductList renders the ProductList 1`] = `
           549,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -999,6 +1045,7 @@ exports[`ProductList renders the ProductList 1`] = `
           379,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -1020,6 +1067,7 @@ exports[`ProductList renders the ProductList 1`] = `
           319,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -1041,6 +1089,7 @@ exports[`ProductList renders the ProductList 1`] = `
           259,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />
@@ -1062,6 +1111,7 @@ exports[`ProductList renders the ProductList 1`] = `
           729,99 €
         </div>
         <input
+          onClick={[Function]}
           type="button"
           value="Add to cart"
         />

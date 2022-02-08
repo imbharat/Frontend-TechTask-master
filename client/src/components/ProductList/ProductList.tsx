@@ -51,7 +51,12 @@ class ArticleList extends React.Component<Props> {
   render() {
     const articles = this.state.categories.map((category) => {
       return category.categoryArticles.articles.map((article, idx) => {
-        return <ArticleCard article={article} key={article.name + idx} />;
+        return (
+          <ArticleCard article={article} 
+            key={article.name + idx} 
+            articleId = {article.name + idx}
+          />
+        );
       });
     });
     return (

@@ -18,6 +18,7 @@ exports[`ArticleCard Article renders 1`] = `
     529,99 €
   </div>
   <input
+    onClick={[Function]}
     type="button"
     value="Add to cart"
   />

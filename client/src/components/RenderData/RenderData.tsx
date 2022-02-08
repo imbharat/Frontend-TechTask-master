@@ -10,7 +10,7 @@ type State = {
   categories: Category[];
 };
 
-class RenderData extends React.Component<Props> {
+class RenderData extends React.PureComponent<Props> {
   state: State = {
     categories: [],
   };

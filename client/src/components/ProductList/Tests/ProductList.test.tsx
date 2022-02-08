@@ -3,7 +3,12 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 import { Category } from '../../../shared/types';
 import ProductList from '../ProductList';
-import { APIData } from './ProductListTestData'
+import { APIData } from './ProductListTestData';
+
+const mockDispatch = jest.fn();
+jest.mock('react-redux', () => ({
+  useDispatch: () => mockDispatch
+}));
 
 describe("ProductList", () => {
   test('renders the ProductList', () => {

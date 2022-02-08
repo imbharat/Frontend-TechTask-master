@@ -17,17 +17,16 @@
 }
 
 .article > input[type="button"] {
-  padding: 0.2em;
+  padding: 0.3em;
   background-color: #e2e2e2;
   border: 1px solid lightgray;
   border-radius: 30px;
   cursor: pointer;
 }
 
-.article img.addToCart {
-  width: 25x;
-  height: 25px;
-  float: right;
+.article > input[type="button"]:hover {
+  background-color: white;
+  font-weight: 600;
 }
 
 .article > .articleName {

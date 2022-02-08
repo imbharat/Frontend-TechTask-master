@@ -1,0 +1,47 @@
+.cart-item {
+  border: 0.05rem solid lightgrey;
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  margin-left: 2rem;
+}
+
+.cart-item .details {
+  margin: auto 5%;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.cart-item .details:nth-of-type(2) {
+  flex-grow: 2;
+}
+
+.cart-item input[type="button"].removeItem {
+  padding: 0.3em;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 40%;
+}
+
+.cart-item input[type="button"].removeItem:hover {
+  background-color: #e2e2e2;
+}
+
+.cart-item input[type="button"].changeCount {
+  border-radius: 5rem;
+  border: 1px solid lightgrey;
+  background: white;
+}
+
+.cart-item .row {
+  margin: 0.5rem auto;
+}
+
+.cart-item .row:nth-of-type(3) {
+  font-size: 1rem;
+  font-weight: 400;
+}
