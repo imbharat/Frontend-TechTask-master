@@ -12,12 +12,12 @@ function CartList() {
         }}>Cart</h1>
         <div style={{ display: "flex" }}>
             {
-                products.length > 0 ? <div style={{ flexGrow: '1.5' }}>
+                products.length > 0 ? <div style={{ flexGrow: 1.5 }}>
                     {
                         products.map(product => <CartItem key={product.id} product={product}/>)
                     }
                 </div> : <div style={{ 
-                    flexGrow: '1.5',
+                    flexGrow: 1.5,
                     textAlign: 'center',
                     position: 'relative',
                     top: '5rem',
@@ -25,7 +25,7 @@ function CartList() {
                   }}>Nothing in Here :(</div>
             }
             <div style={{ 
-                flexGrow: '1',
+                flexGrow: 1,
                 minHeight: "26.5rem",
                 maxWidth: "30%",
                 maxHeight: "30rem"

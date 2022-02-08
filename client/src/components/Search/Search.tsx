@@ -2,7 +2,9 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { debounceSearch } from '../../shared/helpers';
 import { searchProducts } from '../../shared/api_requests';
 import { Suggestion } from '../../shared/types';
+import SearchErrorBoundary from './SearchErrorBoundary/SearchErrorBoundary';
 import './Search.css';
+import SearchItem from './SearchItem/SearchItem';
 
 function Search() {
     const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
@@ -23,7 +25,8 @@ function Search() {
     useEffect(() => {
         if(!firstRender && queryString.length > 1) {
             searchProducts(queryString).then((suggestions) => {
-                setSuggestions(suggestions as Suggestion[]);
+                if(suggestions)
+                    setSuggestions(suggestions as Suggestion[]);
             });
         }
         else {
@@ -44,14 +47,9 @@ function Search() {
                     {
                         suggestions.map((suggestion, idx) =>  {
                             return (
-                                <div className='suggestion' key={suggestion.name + idx}>
-                                    <div><img src={suggestion.image} alt=''/></div>
-                                    <div>{suggestion.name}</div>
-                                    <div style={{
-                                        fontSize: '0.8rem',
-                                        color: 'grey'
-                                    }}>{suggestion.count} Produkte</div>
-                                </div>
+                                <SearchErrorBoundary>
+                                    <SearchItem suggestion={suggestion} key={idx} />
+                                </SearchErrorBoundary>
                             )
                         })
                     }
