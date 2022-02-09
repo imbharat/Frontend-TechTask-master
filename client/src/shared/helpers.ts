@@ -9,14 +9,14 @@ export const formatter = new Intl.NumberFormat(intlNumberFormatValues[0], {
 export const cartDetails = (products: any[]) => {
     const total = products.reduce((total, product) => {
         return {
-            price: (product.quantity * product.details.price) + total.price, 
+            price: (product.quantity * (product.details.price / 100)) + total.price, 
             quantity: product.quantity + total.quantity
         };
     }, {
         price: 0,
         quantity: 0
     });
-    return [total.quantity, formatter.format(total.price / 100)];
+    return [total.quantity, formatter.format(total.price)];
 }
 
 export const debounceSearch = (func: Dispatch<SetStateAction<string>>, delay: number) => {

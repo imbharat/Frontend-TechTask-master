@@ -27,7 +27,7 @@ function CartItem({product} : {product: Product}) {
             </div>
             <div className='row'>
                 {
-                    formatter.format(product.quantity * product.details.price)
+                    formatter.format(product.quantity * (product.details.price / 100 ))
                 }
             </div>
             <div className='row'>
